@@ -24,15 +24,20 @@ import (
 /*
  */
 func Setup() {
-	x := new(big.Int).SetInt64(0)
+	x := new(big.Int).SetInt64(17)
 	fmt.Println(x)
+	computeF(x)
 }
 
+/*
+ */
 func Prove() {
 	x := new(big.Int).SetInt64(0)
 	fmt.Println(x)
 }
 
+/*
+ */
 func Verify() {
 	x := new(big.Int).SetInt64(0)
 	fmt.Println(x)

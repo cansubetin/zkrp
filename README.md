@@ -1,4 +1,4 @@
-[![GoDoc](https://godoc.org/github.com/ing-bank/zkrp?status.svg)](https://godoc.org/github.com/ing-bank/zkrp)
+[![GoDoc](https://godoc.org/github.com/cansubetin/zkrp?status.svg)](https://godoc.org/github.com/cansubetin/zkrp)
 
 # Zero Knowledge Proofs
  
