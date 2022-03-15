@@ -16,5 +16,24 @@
  */
 package gtzkp
 
+import (
+	"fmt"
+	"math/big"
+)
+
 /*
  */
+func Setup() {
+	x := new(big.Int).SetInt64(0)
+	fmt.Println(x)
+}
+
+func Prove() {
+	x := new(big.Int).SetInt64(0)
+	fmt.Println(x)
+}
+
+func Verify() {
+	x := new(big.Int).SetInt64(0)
+	fmt.Println(x)
+}
